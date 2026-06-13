@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "ali mohamed",
+      "email": "ahmed@test.com",
+      "role": "User",
+      "id": 3
+    },
+    {
+      "name": "somy",
+      "email": "dddd@test",
+      "role": "User",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Omar",
+      "email": "omar@test.com",
+      "role": "Admin"
+    },
+    {
+      "name": "somaya saeid ",
+      "email": "somayasaeid4@gmail.com",
+      "role": "User",
+      "id": 6
+    },
+    {
+      "name": "mohamed maher Ali ",
+      "email": "moham @gmail.com",
+      "role": "User",
+      "id": 7
+    },
+    {
+      "name": "ghhjhj",
+      "email": "hjhhk",
+      "role": "User",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -10,6 +10,7 @@ export default function UsersList({ users, onEdit, onDelete }) {
           <h4>{user.name}</h4>
           <p>{user.email}</p>
           <span>{user.role}</span>
+          <span>{user.team}</span>
 
           <div className="user-actions">
             <button onClick={() => onEdit(user)}>Edit</button>

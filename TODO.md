@@ -1,19 +1,6 @@
-# TODO
+- [x] Update NavBar hamburger to toggle the same body classes used by SideBar/CSS: `sidebar-open`/`sidebar-closed` on mobile and `sidebar-mini` on desktop
+- [x] Ensure no conflicting local `open` state blocks correct behavior
+- [ ] Run/test in small screen widths (< 992px and especially < 768px) and verify sidebar slides in/out (left as pending)
 
-- [x] Refactor `src/pages/Dashboard.jsx` to use component-based structure.
-
-- [x] Implement missing components under `src/components/`:
-
-  - [ ] `Navbar.jsx`
-  - [ ] `Sidebar.jsx`
-  - [ ] `UserForm.jsx`
-  - [ ] `UsersList.jsx`
-  - [ ] `Pagination.jsx`
-  - [ ] `ActivityFeed.jsx`
-- [ ] Rewire `Dashboard.jsx` state/handlers to pass props into the new components.
-- [x] Ensure imports use correct filenames (`Navbar.jsx`/`Sidebar.jsx`).
-
-- [ ] Verify styling works with existing `src/styles/dashboard.css`.
-- [x] Run `npm test` and `npm start` (or equivalent) to confirm build/runtime.
 
 

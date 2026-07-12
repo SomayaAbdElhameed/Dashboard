@@ -1,40 +1,148 @@
 {
   "users": [
     {
-      "name": "ali mohamed",
-      "email": "ahmed@test.com",
-      "role": "User",
-      "id": 3
-    },
-    {
-      "name": "somy",
-      "email": "dddd@test",
-      "role": "User",
-      "id": 4
-    },
-    {
-      "id": 5,
-      "name": "Omar",
-      "email": "omar@test.com",
-      "role": "Admin"
-    },
-    {
-      "name": "somaya saeid ",
+      "name": "Somaya Saeid",
       "email": "somayasaeid4@gmail.com",
-      "role": "User",
-      "id": 6
+      "role": "Manager",
+      "team": "Sales",
+      "status": "Pending",
+      "joined": "12-2026",
+      "id": 10
     },
     {
-      "name": "mohamed maher Ali ",
-      "email": "moham @gmail.com",
-      "role": "User",
-      "id": 7
+      "name": "mazen Maher",
+      "email": "mazenm123@gmail.com",
+      "role": "Admin",
+      "team": "Sales",
+      "status": "Pending",
+      "joined": "16-6-2026",
+      "id": 11
     },
     {
-      "name": "ghhjhj",
-      "email": "hjhhk",
-      "role": "User",
-      "id": 8
+      "name": "Obai ahmed ",
+      "email": "obai22@yahoo.com",
+      "role": "Manager",
+      "team": "Sales",
+      "status": "Active",
+      "joined": "20-5-2025",
+      "id": 12
+    },
+    {
+      "name": "Mazen Mohamed Maher ",
+      "email": "Mazen123@gmail.com",
+      "role": "Admin",
+      "team": "Operations",
+      "status": "Pending",
+      "joined": "1-6-2020",
+      "id": 13
+    },
+    {
+      "name": "Nour Mohamed Ali",
+      "email": "Nour222@gmail.com",
+      "role": "Manager",
+      "team": "Content",
+      "status": "Suspended",
+      "joined": "20-7-2023",
+      "id": 14
+    },
+    {
+      "name": "Ahmed Ali Ali",
+      "email": "Ahmed123@gmail.com",
+      "role": "Admin",
+      "team": "Finance",
+      "status": "Active",
+      "joined": "30-5-2022",
+      "id": 15
+    },
+    {
+      "name": "Eslam Ahmed ali",
+      "email": "Eslam123@gmail.com",
+      "role": "Manager",
+      "team": "Sales",
+      "status": "Pending",
+      "joined": "4-9-2024",
+      "id": 16
+    },
+    {
+      "name": "dina dash",
+      "email": "Dina2222@gmail.com",
+      "role": "Manager",
+      "team": "Operations",
+      "status": "Suspended",
+      "joined": "26-3-2016",
+      "id": 17
+    },
+    {
+      "name": "Yara Kamal",
+      "email": "YaraKamal@gmail.com",
+      "role": "Editor",
+      "team": "Operations",
+      "status": "Active",
+      "joined": "20-7-2018",
+      "id": 18
+    },
+    {
+      "name": "Soha ALi",
+      "email": "SohaALi@gmail.com",
+      "role": "Admin",
+      "team": "Operations",
+      "status": "Pending",
+      "joined": "30-6-2022",
+      "id": 19
+    },
+    {
+      "name": "Maryam Yousef",
+      "email": "Maryam12@gmail.com",
+      "role": "Manager",
+      "team": "Content",
+      "status": "Suspended",
+      "joined": "12-3-2016",
+      "id": 20
+    },
+    {
+      "name": "Sara sameh",
+      "email": "Sarass123@gmai.com",
+      "role": "Manager",
+      "team": "Content",
+      "status": "Suspended",
+      "joined": "30-7-2020",
+      "id": 21
+    },
+    {
+      "name": "sami hasan",
+      "email": "hasan@gmail.com",
+      "role": "Admin",
+      "team": "Sales",
+      "status": "Suspended",
+      "joined": "20-7-2015",
+      "id": 22
+    },
+    {
+      "name": "sami hasan",
+      "email": "hasan@gmail.com",
+      "role": "Admin",
+      "team": "Sales",
+      "status": "Suspended",
+      "joined": "20-7-2015",
+      "id": 23
+    },
+    {
+      "name": "doaa fadi",
+      "email": "doaa@gmail.com",
+      "role": "Admin",
+      "team": "Content",
+      "status": "Suspended",
+      "joined": "10-2-2022",
+      "id": 24
+    },
+    {
+      "name": "Anwaar Hazaa",
+      "email": "Anwar@gmail.com",
+      "role": "Manager",
+      "team": "Content",
+      "status": "Suspended",
+      "joined": "30-8-2022",
+      "id": 30
     }
   ],
   "posts": [

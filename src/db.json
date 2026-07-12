@@ -4,19 +4,24 @@
       "id": 1,
       "name": "Layan",
       "email": "layan@test.com",
-      "role": "Admin"
+      "role": "Admin",
+      "team":"Operations"
     },
     {
       "id": 2,
       "name": "Sara",
       "email": "sara@test.com",
-      "role": "Editor"
+      "role": "Editor",  
+       "team":"Sales"
+
     },
     {
       "id": 3,
       "name": "Ahmed",
       "email": "ahmed@test.com",
-      "role": "User"
+      "role": "User",
+       "team":"Data"
+
     }
   ]
 }
